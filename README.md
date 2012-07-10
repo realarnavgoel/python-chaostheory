@@ -16,13 +16,6 @@ License
 
 (Basic GPL used by all)
 
-Install by easy_install
-======================
-
-easy_install python-chaostheory
-
-You can use on both Python 2.x or Python 3.x
-
 Concept of the Module
 ====================
 
@@ -42,5 +35,6 @@ Authors Comments
 
 My effort is a step towards the field of Natural Language Processing where huge data in real time is imported, tokenized
 and processed to provide relevant information according to our needs.
+You can use on both Python 2.x or Python 3.x
 
 For any bugs and issues in implementation , please to write to me at arnavgoel2016[at]gmail[dot]com.
